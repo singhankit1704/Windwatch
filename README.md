@@ -3,7 +3,7 @@
 Web app for a day-ahead power buying team. It shows (1) the latest wind forecast available at decision time and (2) how accurate those forecasts have been, using Elexon FUELHH (actuals) and WINDFOR (forecasts) for January 2026.
 
 **Live app:** <[ADD VERCEL LINK](https://windwatch-irf2.vercel.app/)>
-**Demo video:** <ADD YOUTUBE LINK>
+**Demo video:** <[ADD YOUTUBE LINK](https://youtu.be/W4TBmBLq-78)>
 
 ## AI tools used
 Claude (Anthropic) was used to help write and review parts of this code, and I checked and tested the result.
