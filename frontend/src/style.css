@@ -1,0 +1,13 @@
+body{margin:0;font-family:system-ui,sans-serif;background:#f5f7fa;color:#1b2430}
+header{background:#0b3d5c;color:#fff;padding:16px 24px}
+header h1{margin:0;font-size:20px} header p{margin:4px 0 0;opacity:.8;font-size:13px}
+main{max-width:1100px;margin:0 auto;padding:20px}
+.tabs button{border:0;background:#e1e7ee;padding:10px 18px;margin-right:6px;border-radius:6px 6px 0 0;cursor:pointer;font-size:14px}
+.tabs button.on{background:#fff;font-weight:600}
+.panel{background:#fff;padding:20px;border-radius:0 8px 8px 8px;box-shadow:0 1px 3px #0001}
+.controls{display:flex;gap:16px;align-items:center;margin-bottom:16px;font-size:14px;flex-wrap:wrap}
+.cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(170px,1fr));gap:12px;margin-bottom:20px}
+.card{background:#f0f5f9;border-radius:8px;padding:12px}
+.card b{display:block;font-size:22px;margin-top:4px} .card span{font-size:12px;color:#51606f}
+.note{background:#fff8e1;border-left:4px solid #f5b400;padding:10px 14px;font-size:13px;margin:16px 0;border-radius:4px}
+h3{margin:24px 0 8px;font-size:15px}
